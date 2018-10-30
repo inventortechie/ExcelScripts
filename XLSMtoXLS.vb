@@ -1,4 +1,4 @@
-Sub MakeXLSX()
+Sub MakeXLS()
 Dim sPath As String, sName As String
 Dim wkbk As Workbook, sName1 As String
 sPath = "C:\Test\"     '<==  change to your path
