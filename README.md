@@ -25,3 +25,7 @@ Save the Macro (Ctrl-S) and Run (Play Button) the script. It will convert all XL
 I recommend checking the file count within the directory, it should be 2x what it was to begin with. If so, sort by file type and delete the XLSM files manually once the automation process is complete. 
 
 If you want to bulk delete the files auto-magically, you can uncomment out the KILL command within the script. 
+
+## Authors
+
+* **Kyle Newton**
