@@ -1,4 +1,4 @@
-# Automated .XLSM to .XLS Macro Solution
+# Automatically Convert Microsoft Excel .XLSM files to .XLS with Save-As
 
 If you are needing to bulk-convert new Excel .XLSM files to the older .XLS format, this Macro will handle it for you. It automates opening and Saving-As. This does not just "rename" the file, it will specifically handle the "Save-As" function for you automatically.
 
@@ -8,7 +8,7 @@ You will need Microsoft Excel. Preferrably the latest version to perform this pr
 
 It's recommended that you SAVE COPIES of your XLSM files into a simple path. The given example is "C:\Test\\". It's best to not attempt running or testing this code in a production folder. Make a backup and run the test from within your backup!
 
-### Editing and Running the Macro
+### Editing and Running the VB Macro
 
 Open your first XLSM spreadsheet (workbook) file in Excel.
 
