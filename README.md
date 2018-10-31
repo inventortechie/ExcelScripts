@@ -1,4 +1,4 @@
-# Bulk Convert Microsoft Excel .XLSM files to .XLS with Save-As
+# Bulk Convert Microsoft Excel .XLSM to .XLS with Save-As
 
 If you are needing to bulk-convert new Excel .XLSM files to the older .XLS format, this Macro will handle it for you. It automates opening and Saving-As. This does not just "rename" the file, it will specifically handle the "Save-As" function for you automatically.
 
